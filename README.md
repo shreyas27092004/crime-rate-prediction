@@ -80,14 +80,6 @@ To run this project locally:
 
 ---
 
-## Contribution
-
-This project was developed by **Shreyas V.** for the **Karnataka Police Hackathon 2025**.
-Contributions, feedback, and feature suggestions are welcome.
-Feel free to open an issue or submit a pull request.
-
----
-
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
